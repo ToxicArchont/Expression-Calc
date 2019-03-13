@@ -1,4 +1,5 @@
-# Expression-Calc
+Expression-Calc
+===================
 It is a bit raw, but improvements are already being made.
 # execute()
 Line is split to numbers and operations(one character at a time). Then multiplication and division are done(). + and - follow. Result is returned
